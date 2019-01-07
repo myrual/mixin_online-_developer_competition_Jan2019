@@ -26,7 +26,7 @@
 | 'TBD'| http://fer.one/| ✅ | 由于项目属于应用类，是非开源所有没有设立GitHub，只有gitlab，不好意思 |'TBD'|
 | 'TBD'| Mixin ID: 7000101695| ✅ |[MooooonStar/ant](https://github.com/MooooonStar/ant) |'TBD'|
 | 'TBD'| https://love-seal.lyric.im| ✅ |[lyricat/love-seal]( https://github.com/lyricat/love-seal) |'TBD'|
-| 'TBD'| 妹子图: 7000100214| 'TBD' | [lyricat/meizi-bot](https://github.com/lyricat/meizi-bot)|'TBD' |
+| 'TBD'| 妹子图: 7000100214| ✅ | [lyricat/meizi-bot](https://github.com/lyricat/meizi-bot)|'TBD' |
 | 'TBD'| 'TBD'| 'TBD' | [fox-one/f1db](https://github.com/fox-one/f1db)|'TBD' |
 | Fox.ONE 红包小程序版| 'TBD' | 'TBD' | [fox-one/foxone-luckycoin-wxapp](https://github.com/fox-one/foxone-luckycoin-wxapp/)|'TBD' |
 | Ocean.ONE做市的cli程序| 'TBD' | 'TBD' | [fox-one/oobid](https://github.com/fox-one/oobid/)|'TBD' |
@@ -35,4 +35,4 @@
 | 'TBD'| https://wenda.vcdiandian.com| ✅ | [xiudongy/flarum](https://github.com/xiudongy/flarum) |'TBD'|
 | 'TBD'| [Site under construction](https://shubhamkarala.github.io/melexa-web/)| ❌ | [iamkumarji/MixinApp-Hackinators-](https://github.com/iamkumarji/MixinApp-Hackinators-) |?Where is alexa code|
 | 'TBD'| 'TBD'| 'TBD' | [mkohli21/BlockGrants](https://github.com/mkohli21/BlockGrants) |'TBD' |
-| A dice game | https://diceos.com | 'TBD' |[diceos/diceos-p](https://github.com/diceos/diceos-p)|'TBD' |
+| A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|'TBD' |
