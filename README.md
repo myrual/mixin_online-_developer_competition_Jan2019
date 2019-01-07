@@ -9,7 +9,7 @@
 | tbd| https://wohaokan.me | ✅ | https://github.com/liusining/wohaokan.me-backend | TBD|
 | tbd| https://testcardmall.applinzi.com| ✅ | https://github.com/lijianld/superCardMall |	tbd |
 | tbd| tbd| tbd | https://github.com/ewnk/grouphelper	 |	tbd |
-| tbd| tbd| tbd | https://github.com/nirdesh27/regionalTransport-system	 |	tbd |
+| tbd| tbd| tbd | https://github.com/nirdesh27/regionalTransport-system	 |	❌ use EOS to create Application instead of Mixin |
 | tbd| https://mixin.space| ❌ | https://github.com/kurisu-public/Mixin-Decentralization-BBS	 |	tbd |
 | tbd| http://mixinkeys.ibisolutions.ru| ✅ | https://github.com/if1242/MixinKeys	 |	 tbd|
 | tbd| https://imin.xin/| ✅ | https://github.com/an-lee/iminxin 	 |	tbd |
