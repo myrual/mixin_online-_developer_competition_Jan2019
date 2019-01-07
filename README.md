@@ -35,3 +35,4 @@
 | tbd| https://wenda.vcdiandian.com| ✅ | https://github.com/xiudongy/flarum |tbd|
 | tbd| [Site under construction](https://shubhamkarala.github.io/melexa-web/)| ❌ | https://github.com/iamkumarji/MixinApp-Hackinators-  |	✅	|
 | tbd| tbd| tbd | https://github.com/mkohli21/BlockGrants	 |	tbd |
+| A dice game | https://diceos.com | tbd | https://github.com/diceos/diceos-p	 |	tbd |
