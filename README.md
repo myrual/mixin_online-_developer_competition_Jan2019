@@ -15,7 +15,7 @@
 | tbd| https://imin.xin/| ✅ | https://github.com/an-lee/iminxin 	 |	tbd |
 | tbd| tbd| tbd | https://github.com/cw35/random-chat	 |	tbd |
 | tbd| https://www.mixin.bet/| ✅ | 	https://github.com/lotter1988/lottery |	 tbd|
-| tbd| tbd| tbd | https://github.com/Alexygui/Gobang	 | tbd	 |
+| tbd| tbd| tbd | https://github.com/Alexygui/Gobang	 | ❌ use ETH to create Application instead of Mixin	 |
 | tbd| tbd| tbd | 	https://github.com/exinone/exincore |	tbd |
 | tbd| www.dodice.com| ✅ | https://github.com/soooooooon/rock |tbd|
 | tbd| 7000101695| tbd | 	https://github.com/ExinOne/mixin-sdk-php |tbd	 |
