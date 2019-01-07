@@ -17,10 +17,10 @@
 | tbd| https://www.mixin.bet/| tbd | 	https://github.com/lotter1988/lottery |	 tbd|
 | tbd| tbd| tbd | https://github.com/Alexygui/Gobang	 | tbd	 |
 | tbd| tbd| tbd | 	https://github.com/exinone/exincore |	tbd |
-| tbd| tbd| tbd | 	Mixin ID：700id0101404     |	       (代码暂时不开放，目前机器人的二维码申请需要邀请码，可以联系我） |
-| tbd| tbd| tbd | www.dodice.com  |		https://github.com/soooooooon/rock |
-| tbd| tbd| tbd | 	 |	https://github.com/ExinOne/mixin-sdk-php |
-| tbd| tbd| tbd | http://fer.one/	 |	https://gitlab.com/block_shine |
+| tbd| Mixin ID：700id0101404 tbd| tbd | 	(代码暂时不开放，目前机器人的二维码申请需要邀请码，可以联系我)    |	       tbd |
+| tbd| www.dodice.com| tbd | https://github.com/soooooooon/rock |tbd|
+| tbd| tbd| tbd | 	https://github.com/ExinOne/mixin-sdk-php |tbd	 |
+| tbd| http://fer.one/	| tbd| 	https://gitlab.com/block_shine |tbd  |
 | tbd| tbd| tbd | www.transfund.io	 |	See the attachment below |
 | tbd| tbd| tbd | https://www.dodice.com	 |	https://github.com/soooooooon/rock.git |
 | tbd| tbd| tbd | www.dodice.com	 |	https://github.com/yiplee/Rock |
