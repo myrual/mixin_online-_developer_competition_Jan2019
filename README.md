@@ -12,11 +12,11 @@
 | tbd| tbd| tbd | https://github.com/nirdesh27/regionalTransport-system	 |	tbd |
 | tbd| https://mixin.space| tbd | https://github.com/kurisu-public/Mixin-Decentralization-BBS	 |	tbd |
 | tbd| http://mixinkeys.ibisolutions.ru| tbd | https://github.com/if1242/MixinKeys	 |	 tbd|
-| tbd| tbd| tbd | https://imin.xin/	 |	https://github.com/an-lee/iminxin |
-| tbd| tbd| tbd | https://github.com/cw35/random-chat	 |	https://github.com/cw35/random-chat |
-| tbd| tbd| tbd | https://www.mixin.bet/	 |	https://github.com/lotter1988/lottery |
-| tbd| tbd| tbd | 	 |	https://github.com/Alexygui/Gobang |
-| tbd| tbd| tbd | 	 |	https://github.com/exinone/exincore |
+| tbd| https://imin.xin/| tbd | https://github.com/an-lee/iminxin 	 |	tbd |
+| tbd| tbd| tbd | https://github.com/cw35/random-chat	 |	tbd |
+| tbd| https://www.mixin.bet/| tbd | 	https://github.com/lotter1988/lottery |	 tbd|
+| tbd| tbd| tbd | https://github.com/Alexygui/Gobang	 | tbd	 |
+| tbd| tbd| tbd | 	https://github.com/exinone/exincore |	tbd |
 | tbd| tbd| tbd | 	Mixin ID：700id0101404     |	       (代码暂时不开放，目前机器人的二维码申请需要邀请码，可以联系我） |
 | tbd| tbd| tbd | www.dodice.com  |		https://github.com/soooooooon/rock |
 | tbd| tbd| tbd | 	 |	https://github.com/ExinOne/mixin-sdk-php |
