@@ -3,7 +3,7 @@
 ### submitted work
 
 
-| Description | website or mixin messenger bot id                                  |   github address                                         |
+| Verified | website or mixin messenger bot id                                  |   github address                                         |
 | --- | -------------------------------------------- |  -------------------------------------------------
 | tbd | unique bot identity, uuid,for token signature | 21042518-85c7-4903-bb19-f311813d1f51          |
 | session id | session identity, uuid,for token signature | 5eb96d87-028e-4199-a6d3-6fc7da8dfe41          |
