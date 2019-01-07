@@ -13,7 +13,6 @@
 | ''TBD''| https://mixin.space| ❌ | [kurisu-public/Mixin-Decentralization-BBS](https://github.com/kurisu-public/Mixin-Decentralization-BBS)|''TBD'' |
 | ''TBD''| http://mixinkeys.ibisolutions.ru| ✅ |[if1242/MixinKeys](https://github.com/if1242/MixinKeys) | ''TBD''|
 | ''TBD''| https://imin.xin/| ✅ | [an-lee/iminxin](https://github.com/an-lee/iminxin) |''TBD'' |
-| ''TBD''| ''TBD''| ''TBD'' | [cw35/random-chat](https://github.com/cw35/random-chat)|''TBD'' |
 | ''TBD''| https://www.mixin.bet/| ✅ | [lotter1988/lottery](https://github.com/lotter1988/lottery) |''TBD''|
 | ''TBD''| ''TBD''| ''TBD'' | [Alexygui/Gobang](https://github.com/Alexygui/Gobang)| ❌ use ETH to create Application instead of Mixin|
 | ''TBD''| ''TBD''| ''TBD'' | [exinone/exincore](https://github.com/exinone/exincore) |''TBD'' |
@@ -21,8 +20,8 @@
 | ''TBD''| 7000101695| 'TBD' | [ExinOne/mixin-sdk-php](https://github.com/ExinOne/mixin-sdk-php) |'TBD'|
 | 'TBD'| www.transfund.io| ❌ | 'TBD'|See the attachment below |
 | 'TBD'| https://luckybet.one/| ✅ | NA |'TBD' |
-| 'TBD'| 'TBD'| 'TBD' |[cw35/random-chat](https://github.com/cw35/random-chat) |'TBD' |
-| 'TBD'| 'TBD'| 'TBD' | [cw35/f1bank](https://github.com/cw35/f1bank) |'TBD'|
+| 'TBD'| 7000101419| 'TBD' |[cw35/random-chat](https://github.com/cw35/random-chat) |'TBD' |
+| 'TBD'| https://github.com/cw35/f1bank| 'TBD' | [cw35/f1bank](https://github.com/cw35/f1bank) |'TBD'|
 | 'TBD'| http://fer.one/| ✅ | 由于项目属于应用类，是非开源所有没有设立GitHub，只有gitlab，不好意思 |'TBD'|
 | 'TBD'| Mixin ID: 7000101695| ✅ |[MooooonStar/ant](https://github.com/MooooonStar/ant) |'TBD'|
 | 'TBD'| https://love-seal.lyric.im| ✅ |[lyricat/love-seal]( https://github.com/lyricat/love-seal) |'TBD'|
