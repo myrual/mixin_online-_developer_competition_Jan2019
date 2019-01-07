@@ -17,16 +17,14 @@
 | tbd| https://www.mixin.bet/| ✅ | 	https://github.com/lotter1988/lottery |	 tbd|
 | tbd| tbd| tbd | https://github.com/Alexygui/Gobang	 | tbd	 |
 | tbd| tbd| tbd | 	https://github.com/exinone/exincore |	tbd |
-| tbd| Mixin ID：700id0101404 tbd| tbd | 	(代码暂时不开放，目前机器人的二维码申请需要邀请码，可以联系我)    |	       tbd |
 | tbd| www.dodice.com| ✅ | https://github.com/soooooooon/rock |tbd|
 | tbd| 7000101695| tbd | 	https://github.com/ExinOne/mixin-sdk-php |tbd	 |
 | tbd| www.transfund.io| ❌ | tbd	 |	See the attachment below |
-| tbd| Mixin ID: 	| tbd |	https://github.com/MooooonStar/ant |tbd|
 | tbd| https://luckybet.one/| ✅ | https://github.com/luckybetone |		tbd |
 | tbd| tbd| tbd |	https://github.com/cw35/random-chat |tbd |
 | tbd| tbd| tbd | https://github.com/cw35/f1bank |tbd|
 | tbd| http://fer.one/| ✅ | 	由于项目属于应用类，是非开源所有没有设立GitHub，只有gitlab，不好意思 |tbd	 |
-| tbd| Mixin ID: 7000101695| ✅ | Mixin ID: 7000101695	https://github.com/MooooonStar/ant |tbd|
+| tbd| Mixin ID: 7000101695| ✅ | https://github.com/MooooonStar/ant |tbd|
 | tbd| tbd| tbd | https://github.com/lotter1988/lottery	 |tbd	 |
 | tbd| https://love-seal.lyric.im| ✅ | https://github.com/lyricat/love-seal |tbd|
 | tbd| tbd| tbd | https://github.com/fox-one/f1db	 |	tbd |
