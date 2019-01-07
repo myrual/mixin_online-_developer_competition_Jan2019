@@ -3,8 +3,8 @@
 ### submitted work
 
 
-| Description | Delivery  | is verified | github address | code is verified |
-| --- | --- | --- |-------- |  ------------
+| Description | Delivery  | IsVerified | GithubAddress | CodeIsVerified |
+|--|--|--|--|--
 | `TBD`| NO | `TBD` |	[sumanthwhy/smart-Energy-Monitoring](https://github.com/sumanthwhy/smart-Energy-Monitoring)| `TBD` |
 | `TBD`| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend) | `TBD`|
 | `TBD`| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall) |`TBD` |
