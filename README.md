@@ -26,8 +26,9 @@
 | tbd| http://fer.one/| ✅ | 	由于项目属于应用类，是非开源所有没有设立GitHub，只有gitlab，不好意思 |tbd	 |
 | tbd| Mixin ID: 7000101695| ✅ | https://github.com/MooooonStar/ant |tbd|
 | tbd| https://love-seal.lyric.im| ✅ | https://github.com/lyricat/love-seal |tbd|
-| tbd| tbd| tbd | https://github.com/fox-one/f1db	 |	tbd |
 | tbd| 妹子图: 7000100214| tbd | https://github.com/lyricat/meizi-bot	 |	tbd |
+| tbd| tbd| tbd | https://github.com/fox-one/f1db	 |	tbd |
+| tbd| Fox.ONE 红包小程序版 | tbd | https://github.com/fox-one/foxone-luckycoin-wxapp/	 |	tbd |
 | tbd|  http://everpost.one	| ✅ | https://github.com/caosbad/ever-post-mixin-bot |tbd |
 | tbd| https://mixinlight.github.io/| ✅ | https://github.com/MixinLight/mixin-light-wallet |tbd|
 | tbd| https://wenda.vcdiandian.com| ✅ | https://github.com/xiudongy/flarum |tbd|
