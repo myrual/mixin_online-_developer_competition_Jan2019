@@ -21,7 +21,6 @@
 | tbd| www.dodice.com| ✅ | https://github.com/soooooooon/rock |tbd|
 | tbd| 7000101695| tbd | 	https://github.com/ExinOne/mixin-sdk-php |tbd	 |
 | tbd| www.transfund.io| ❌ | tbd	 |	See the attachment below |
-| tbd| https://www.dodice.com| ✅ | https://github.com/soooooooon/rock.git	 |	tbd |
 | tbd| Mixin ID: 	| tbd |	https://github.com/MooooonStar/ant |tbd|
 | tbd| https://luckybet.one/| ✅ | https://github.com/luckybetone |		tbd |
 | tbd| tbd| tbd |	https://github.com/cw35/random-chat |tbd |
