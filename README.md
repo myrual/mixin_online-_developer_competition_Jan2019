@@ -31,5 +31,5 @@
 | tbd|  http://everpost.one	| ✅ | https://github.com/caosbad/ever-post-mixin-bot |tbd |
 | tbd| https://mixinlight.github.io/| ✅ | https://github.com/MixinLight/mixin-light-wallet |tbd|
 | tbd| https://wenda.vcdiandian.com| ✅ | https://github.com/xiudongy/flarum |tbd|
-| tbd| https://shubhamkarala.github.io/melexa-web/| ❌ | https://github.com/iamkumarji/MixinApp-Hackinators-  |	tbd	|
+| tbd| [Site under construction](https://shubhamkarala.github.io/melexa-web/)| ❌ | https://github.com/iamkumarji/MixinApp-Hackinators-  |	tbd	|
 | tbd| tbd| tbd | https://github.com/mkohli21/BlockGrants	 |	tbd |
