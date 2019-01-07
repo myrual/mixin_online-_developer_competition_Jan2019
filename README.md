@@ -3,21 +3,21 @@
 ### submitted work
 
 
-| Description | website or mixin messenger bot id | Work verified by mixin team | github address | Code verified by mixin team                                          |
+| Description | Delivery  | is verified | github address | code is verified |
 | --- | --- | --- |-------------------------------------------- |  -------------------------------------------------
 | tbd| NO | tbd |	https://github.com/sumanthwhy/smart-Energy-Monitoring| tbd |
 | tbd| https://wohaokan.me | YES | https://github.com/liusining/wohaokan.me-backend | TBD|
-| tbd| tbd| tbd | https://testcardmall.applinzi.com |	https://github.com/lijianld/superCardMall |
-| tbd| tbd| tbd | 	 |	https://github.com/ewnk/grouphelper |
-| tbd| tbd| tbd | 	 |	https://github.com/nirdesh27/regionalTransport-system |
-| tbd| tbd| tbd | https://mixin.space	 |	https://github.com/kurisu-public/Mixin-Decentralization-BBS |
-| tbd| tbd| tbd | http://mixinkeys.ibisolutions.ru	 |	https://github.com/if1242/MixinKeys |
+| tbd| https://testcardmall.applinzi.com| YES | https://github.com/lijianld/superCardMall |	tbd |
+| tbd| tbd| tbd | https://github.com/ewnk/grouphelper	 |	tbd |
+| tbd| tbd| tbd | https://github.com/nirdesh27/regionalTransport-system	 |	tbd |
+| tbd| https://mixin.space| tbd | https://github.com/kurisu-public/Mixin-Decentralization-BBS	 |	tbd |
+| tbd| http://mixinkeys.ibisolutions.ru| tbd | https://github.com/if1242/MixinKeys	 |	 tbd|
 | tbd| tbd| tbd | https://imin.xin/	 |	https://github.com/an-lee/iminxin |
 | tbd| tbd| tbd | https://github.com/cw35/random-chat	 |	https://github.com/cw35/random-chat |
 | tbd| tbd| tbd | https://www.mixin.bet/	 |	https://github.com/lotter1988/lottery |
 | tbd| tbd| tbd | 	 |	https://github.com/Alexygui/Gobang |
 | tbd| tbd| tbd | 	 |	https://github.com/exinone/exincore |
-| tbd| tbd| tbd | 	Mixin ID：7000101404     |	       (代码暂时不开放，目前机器人的二维码申请需要邀请码，可以联系我） |
+| tbd| tbd| tbd | 	Mixin ID：700id0101404     |	       (代码暂时不开放，目前机器人的二维码申请需要邀请码，可以联系我） |
 | tbd| tbd| tbd | www.dodice.com  |		https://github.com/soooooooon/rock |
 | tbd| tbd| tbd | 	 |	https://github.com/ExinOne/mixin-sdk-php |
 | tbd| tbd| tbd | http://fer.one/	 |	https://gitlab.com/block_shine |
