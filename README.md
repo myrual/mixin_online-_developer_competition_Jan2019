@@ -6,7 +6,7 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | Description | Delivery  | IsVerified | GithubAddress | CodeIsVerified |
 |--|--|--|--|--|
 | 好看吗| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend)|✅  repo missing https://github.com/liusining/wohaokan.me-mixin-middleware|
-|礼品卡交易平台| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|? source code in zip package?|
+|礼品卡交易平台| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|✅|
 | 基于mixin network实现一个社群助手, 发糖果| Mixin ID:7000100213| ✅ | [ewnk/grouphelper](https://github.com/ewnk/grouphelper) |✅|
 | Airbnb style DApp based on Mixin Network, open hardware lock by bluetooth| http://mixinkeys.ibisolutions.ru| ✅ |[if1242/MixinKeys](https://github.com/if1242/MixinKeys) | ✅|
 |数字token小秘圈| https://imin.xin/| ✅ | [an-lee/iminxin](https://github.com/an-lee/iminxin) |✅ |
