@@ -26,8 +26,8 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | A simple and powerful Chrome Extension wallet for accessing digital assets on Mixin Network| https://mixinlight.github.io/| ✅ | [MixinLight/mixin-light-wallet](https://github.com/MixinLight/mixin-light-wallet) |✅|
 | 问答社区| https://wenda.vcdiandian.com| ✅ | [xiudongy/flarum](https://github.com/xiudongy/flarum) |✅|
 | A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|✅|
-| Python3 SDK and tutorial| https://www.youtube.com/playlist?list=PLMt8rZaHF-0Yj0w6tHeD1vxBA7f7GU-0-| ✅| https://github.com/includeleec/mixin-python3-sdk | ✅
-| mixin sdk in go| `TBD`| `TBD`|  https://github.com/MooooonStar/mixin-sdk-go |✅ |
+| Python3 SDK and tutorial| https://www.youtube.com/playlist?list=PLMt8rZaHF-0Yj0w6tHeD1vxBA7f7GU-0-| ✅| [includeleec/mixin-python3-sdk](https://github.com/includeleec/mixin-python3-sdk) | ✅
+| mixin sdk in go| `TBD`| `TBD`|  [MooooonStar/mixin-sdk-go](https://github.com/MooooonStar/mixin-sdk-go) |✅ |
 | mixin sdk with laravel| `TBD`| `TBD`|  [ExinOne/laravel-mixin-sdk](https://github.com/ExinOne/laravel-mixin-sdk) |✅ |
 
 
@@ -51,7 +51,7 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | `TBD`| TBD| `TBD` | [ExinOne/mixin-sdk-php](https://github.com/ExinOne/mixin-sdk-php) |✅|
 | `TBD`| www.transfund.io| ❌ | `TBD`|See the attachment below |
 | `TBD`| https://luckybet.one/| ✅ | NA |`TBD` |
-| `TBD`| 7000101419| `TBD` |[cw35/random-chat](https://github.com/cw35/random-chat) |`TBD` |
+| `TBD`| 7000101419| ✅ |[cw35/random-chat](https://github.com/cw35/random-chat) |`TBD` |
 | `TBD`| `TBD`| `TBD` | [cw35/f1bank](https://github.com/cw35/f1bank) |`TBD`|
 | `TBD`| http://fer.one/| ✅ | 由于项目属于应用类，是非开源所有没有设立GitHub，只有gitlab，不好意思 |`TBD`|
 | 搬砖小蚂蚁| Mixin ID: 7000101695| ✅ |[MooooonStar/ant](https://github.com/MooooonStar/ant) |✅|
@@ -68,6 +68,6 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|✅|
 | Python3 SDK and tutorial| https://www.youtube.com/playlist?list=PLMt8rZaHF-0Yj0w6tHeD1vxBA7f7GU-0-| ✅| https://github.com/includeleec/mixin-python3-sdk | ✅
 | `TBD`| `TBD`| `TBD`|  https://github.com/HiZhongxh/Donate | ❌ based ethereum?
-| mixin sdk in go| `TBD`| `TBD`|  https://github.com/MooooonStar/mixin-sdk-go |✅ |
+| mixin sdk in go| `TBD`| `TBD`|  [MooooonStar/mixin-sdk-go](https://github.com/MooooonStar/mixin-sdk-go) |✅ |
 | mixin sdk with laravel| `TBD`| `TBD`|  [ExinOne/laravel-mixin-sdk](https://github.com/ExinOne/laravel-mixin-sdk) |✅ |
 
