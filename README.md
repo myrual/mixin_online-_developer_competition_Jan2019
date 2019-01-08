@@ -28,7 +28,8 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|✅|
 | Python3 SDK and tutorial| https://www.youtube.com/playlist?list=PLMt8rZaHF-0Yj0w6tHeD1vxBA7f7GU-0-| ✅| https://github.com/includeleec/mixin-python3-sdk | ✅
 | mixin sdk in go| 'TBD'| 'TBD'|  https://github.com/MooooonStar/mixin-sdk-go |✅ |
-| mixin sdk with laravel| `TBD`| `TBD`|  [ExinOne/laravel-mixin-sdk](https://github.com/ExinOne/laravel-mixin-sdk) |✅ |
+| mixin sdk with laravel| `TBD`| `TBD`|  [ExinOne/laravel-mixin-sdk](https://github.com/ExinOne/laravel-mixin-sdk) |`TBD`|
+| Exinpay | Mixin ID: 7000101404| `TBD`|  `Null` |`TBD`|
 
 
 ### submitted works
