@@ -12,12 +12,12 @@
 | ''TBD''| ''TBD''| ''TBD'' | [nirdesh27/regionalTransport-system](https://github.com/nirdesh27/regionalTransport-system) |❌ use EOS to create Application instead of Mixin |
 | ''TBD''| https://mixin.space| ❌ | [kurisu-public/Mixin-Decentralization-BBS](https://github.com/kurisu-public/Mixin-Decentralization-BBS)|''TBD'' |
 | ''TBD''| http://mixinkeys.ibisolutions.ru| ✅ |[if1242/MixinKeys](https://github.com/if1242/MixinKeys) | ''TBD''|
-| ''TBD''| https://imin.xin/| ✅ | [an-lee/iminxin](https://github.com/an-lee/iminxin) |''TBD'' |
+| ''TBD''| https://imin.xin/| ✅ | [an-lee/iminxin](https://github.com/an-lee/iminxin) |✅ |
 | ''TBD''| ''TBD''| ''TBD'' | [cw35/random-chat](https://github.com/cw35/random-chat)|''TBD'' |
-| ''TBD''| https://www.mixin.bet/| ✅ | [lotter1988/lottery](https://github.com/lotter1988/lottery) |''TBD''|
+| ''TBD''| https://www.mixin.bet/| ✅ | [lotter1988/lottery](https://github.com/lotter1988/lottery) |✅|
 | ''TBD''| ''TBD''| ''TBD'' | [Alexygui/Gobang](https://github.com/Alexygui/Gobang)| ❌ use ETH to create Application instead of Mixin|
-| ''TBD''| ''TBD''| ''TBD'' | [exinone/exincore](https://github.com/exinone/exincore) |''TBD'' |
-| 'TBD'| www.dodice.com| ✅ | [soooooooon/rock](https://github.com/soooooooon/rock) |''TBD''|
+| ''TBD''| ''TBD''| ''TBD'' | [exinone/exincore](https://github.com/exinone/exincore) |✅|
+| 'TBD'| www.dodice.com| ✅ | [soooooooon/rock](https://github.com/soooooooon/rock) |✅|
 | 'TBD'| TBD| 'TBD' | [ExinOne/mixin-sdk-php](https://github.com/ExinOne/mixin-sdk-php) |'TBD'|
 | 'TBD'| www.transfund.io| ❌ | 'TBD'|See the attachment below |
 | 'TBD'| https://luckybet.one/| ✅ | NA |'TBD' |
