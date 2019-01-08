@@ -37,5 +37,5 @@
 | 'TBD'| 'TBD'| 'TBD' | [mkohli21/BlockGrants](https://github.com/mkohli21/BlockGrants) |'TBD' |
 | A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|'TBD' |
 | Python3 SDK and tutorial| https://www.youtube.com/playlist?list=PLMt8rZaHF-0Yj0w6tHeD1vxBA7f7GU-0-| ✅| https://github.com/includeleec/mixin-python3-sdk | ✅
-| 'TBD'| 'TBD'| 'TBD'|  https://github.com/HiZhongxh/Donate | ✅ based ethereum?
+| 'TBD'| 'TBD'| 'TBD'|  https://github.com/HiZhongxh/Donate | ❌ based ethereum?
 
