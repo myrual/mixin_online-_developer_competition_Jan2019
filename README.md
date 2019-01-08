@@ -27,6 +27,7 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | 问答社区| https://wenda.vcdiandian.com| ✅ | [xiudongy/flarum](https://github.com/xiudongy/flarum) |✅|
 | A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|✅|
 | Python3 SDK and tutorial| https://www.youtube.com/playlist?list=PLMt8rZaHF-0Yj0w6tHeD1vxBA7f7GU-0-| ✅| https://github.com/includeleec/mixin-python3-sdk | ✅
+| mixin sdk in go| 'TBD'| 'TBD'|  https://github.com/MooooonStar/mixin-sdk-go |✅ |
 
 
 ### submitted works
@@ -66,5 +67,5 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|✅|
 | Python3 SDK and tutorial| https://www.youtube.com/playlist?list=PLMt8rZaHF-0Yj0w6tHeD1vxBA7f7GU-0-| ✅| https://github.com/includeleec/mixin-python3-sdk | ✅
 | 'TBD'| 'TBD'| 'TBD'|  https://github.com/HiZhongxh/Donate | ❌ based ethereum?
-| mixin sdk in go| 'TBD'| 'TBD'|  https://github.com/MooooonStar/mixin-sdk-go | |
+| mixin sdk in go| 'TBD'| 'TBD'|  https://github.com/MooooonStar/mixin-sdk-go |✅ |
 
