@@ -36,7 +36,7 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 |--|--|--|--|--
 | ''TBD''| NO | 'TBD' |[sumanthwhy/smart-Energy-Monitoring](https://github.com/sumanthwhy/smart-Energy-Monitoring)| 'TBD' |
 | ''TBD''| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend)|✅  repo missing https://github.com/liusining/wohaokan.me-mixin-middleware|
-| ''TBD''| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|? source code in zip package?|
+| ''TBD''| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|✅|
 | ''TBD''| 7000100213| ✅ | [ewnk/grouphelper](https://github.com/ewnk/grouphelper) |✅|
 | ''TBD''| ''TBD''| ''TBD'' | [nirdesh27/regionalTransport-system](https://github.com/nirdesh27/regionalTransport-system) |❌ use EOS to create Application instead of Mixin |
 | ''TBD''| https://mixin.space| ❌ | [kurisu-public/Mixin-Decentralization-BBS](https://github.com/kurisu-public/Mixin-Decentralization-BBS)|''TBD'' |
