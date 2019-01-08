@@ -4,6 +4,8 @@
 
 
 ### accepted work and code
+| Description | Delivery  | IsVerified | GithubAddress | CodeIsVerified |
+|--|--|--|--|--|
 | ''TBD''| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend)|✅  repo missing https://github.com/liusining/wohaokan.me-mixin-middleware|
 | ''TBD''| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|? source code in zip package?|
 | ''TBD''| Mixin ID:7000100213| ✅ | [ewnk/grouphelper](https://github.com/ewnk/grouphelper) |✅|
