@@ -23,6 +23,7 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | A simple and powerful Chrome Extension wallet for accessing digital assets on Mixin Network| https://mixinlight.github.io/| ✅ | [MixinLight/mixin-light-wallet](https://github.com/MixinLight/mixin-light-wallet) |✅|
 | 问答社区| https://wenda.vcdiandian.com| ✅ | [xiudongy/flarum](https://github.com/xiudongy/flarum) |✅|
 | A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|✅|
+| Mixin 广场                                                   | http://ahasmarter.com/game.html 或搜索 MixinID: 7000100111 | ✅          | [albertschr/mixin_square](https://github.com/albertschr/mixin_square) | ✅                                                            |
 
 
 
@@ -40,7 +41,7 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 
 
 | Description | Delivery  | IsVerified | GithubAddress | CodeIsVerified |
-|--|--|--|--|--
+|--|--|--|--|--|
 | '`TBD`'| NO | `TBD` |[sumanthwhy/smart-Energy-Monitoring](https://github.com/sumanthwhy/smart-Energy-Monitoring)| `TBD` |
 | '`TBD`'| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend)|✅  repo missing https://github.com/liusining/wohaokan.me-mixin-middleware|
 | '`TBD`'| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|✅|
