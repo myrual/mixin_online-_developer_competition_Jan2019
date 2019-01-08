@@ -1,4 +1,4 @@
-# mixin online developer competition Jan2019
+# Mixin online developer competition Jan2019
 
 All the accepted code has been forked into [Awesome Mixin Network](https://github.com/awesome-mixin-network)
 
