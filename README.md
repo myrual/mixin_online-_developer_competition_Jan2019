@@ -67,4 +67,5 @@
 | A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|✅|
 | Python3 SDK and tutorial| https://www.youtube.com/playlist?list=PLMt8rZaHF-0Yj0w6tHeD1vxBA7f7GU-0-| ✅| https://github.com/includeleec/mixin-python3-sdk | ✅
 | 'TBD'| 'TBD'| 'TBD'|  https://github.com/HiZhongxh/Donate | ❌ based ethereum?
+| mixin sdk in go| 'TBD'| 'TBD'|  https://github.com/MooooonStar/mixin-sdk-go | |
 
