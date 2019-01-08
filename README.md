@@ -1,4 +1,4 @@
-# mixin_online-_developer_competition_Jan2019
+# mixin online developer competition Jan2019
 
 
 
