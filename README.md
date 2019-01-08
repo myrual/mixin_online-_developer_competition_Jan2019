@@ -2,7 +2,7 @@
 
 All the accepted code has been forked into [Awesome Mixin Network](https://github.com/awesome-mixin-network)
 
-### accepted works. Deliver working website or Mixin Messenger bots. Code is on Github and read by Mixin team member
+### Accepted works are listed here
 | Description | Delivery  | IsVerified | GithubAddress | CodeIsVerified |
 |--|--|--|--|--|
 | 好看吗| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend)|✅  repo missing https://github.com/liusining/wohaokan.me-mixin-middleware|
