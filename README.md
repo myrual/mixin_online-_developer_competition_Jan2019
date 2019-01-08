@@ -8,7 +8,7 @@
 | ''TBD''| NO | 'TBD' |[sumanthwhy/smart-Energy-Monitoring](https://github.com/sumanthwhy/smart-Energy-Monitoring)| 'TBD' |
 | ''TBD''| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend)|''TBD''|
 | ''TBD''| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|''TBD'' |
-| ''TBD''| ''TBD''| ''TBD'' | [ewnk/grouphelper](https://github.com/ewnk/grouphelper) |''TBD''|
+| ''TBD''| 7000100213| ✅ | [ewnk/grouphelper](https://github.com/ewnk/grouphelper) |✅|
 | ''TBD''| ''TBD''| ''TBD'' | [nirdesh27/regionalTransport-system](https://github.com/nirdesh27/regionalTransport-system) |❌ use EOS to create Application instead of Mixin |
 | ''TBD''| https://mixin.space| ❌ | [kurisu-public/Mixin-Decentralization-BBS](https://github.com/kurisu-public/Mixin-Decentralization-BBS)|''TBD'' |
 | ''TBD''| http://mixinkeys.ibisolutions.ru| ✅ |[if1242/MixinKeys](https://github.com/if1242/MixinKeys) | ''TBD''|
@@ -17,8 +17,8 @@
 | ''TBD''| https://www.mixin.bet/| ✅ | [lotter1988/lottery](https://github.com/lotter1988/lottery) |''TBD''|
 | ''TBD''| ''TBD''| ''TBD'' | [Alexygui/Gobang](https://github.com/Alexygui/Gobang)| ❌ use ETH to create Application instead of Mixin|
 | ''TBD''| ''TBD''| ''TBD'' | [exinone/exincore](https://github.com/exinone/exincore) |''TBD'' |
-| ''TBD''| www.dodice.com| ✅ | [soooooooon/rock](https://github.com/soooooooon/rock) |''TBD''|
-| ''TBD''| 7000101695| 'TBD' | [ExinOne/mixin-sdk-php](https://github.com/ExinOne/mixin-sdk-php) |'TBD'|
+| 'TBD'| www.dodice.com| ✅ | [soooooooon/rock](https://github.com/soooooooon/rock) |''TBD''|
+| 'TBD'| 7000101695| 'TBD' | [ExinOne/mixin-sdk-php](https://github.com/ExinOne/mixin-sdk-php) |'TBD'|
 | 'TBD'| www.transfund.io| ❌ | 'TBD'|See the attachment below |
 | 'TBD'| https://luckybet.one/| ✅ | NA |'TBD' |
 | 'TBD'| 'TBD'| 'TBD' |[cw35/random-chat](https://github.com/cw35/random-chat) |'TBD' |
