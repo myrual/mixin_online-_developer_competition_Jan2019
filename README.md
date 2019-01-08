@@ -6,8 +6,8 @@
 | Description | Delivery  | IsVerified | GithubAddress | CodeIsVerified |
 |--|--|--|--|--
 | ''TBD''| NO | 'TBD' |[sumanthwhy/smart-Energy-Monitoring](https://github.com/sumanthwhy/smart-Energy-Monitoring)| 'TBD' |
-| ''TBD''| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend)|''TBD''|
-| ''TBD''| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|''TBD'' |
+| ''TBD''| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend)|✅  repo missing https://github.com/liusining/wohaokan.me-mixin-middleware|
+| ''TBD''| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|? source code in zip package?|
 | ''TBD''| 7000100213| ✅ | [ewnk/grouphelper](https://github.com/ewnk/grouphelper) |✅|
 | ''TBD''| ''TBD''| ''TBD'' | [nirdesh27/regionalTransport-system](https://github.com/nirdesh27/regionalTransport-system) |❌ use EOS to create Application instead of Mixin |
 | ''TBD''| https://mixin.space| ❌ | [kurisu-public/Mixin-Decentralization-BBS](https://github.com/kurisu-public/Mixin-Decentralization-BBS)|''TBD'' |
@@ -35,7 +35,7 @@
 | 'TBD'| https://wenda.vcdiandian.com| ✅ | [xiudongy/flarum](https://github.com/xiudongy/flarum) |✅|
 | 'TBD'| [Site under construction](https://shubhamkarala.github.io/melexa-web/)| ❌ | [iamkumarji/MixinApp-Hackinators-](https://github.com/iamkumarji/MixinApp-Hackinators-) |?Where is alexa code|
 | 'TBD'| 'TBD'| 'TBD' | [mkohli21/BlockGrants](https://github.com/mkohli21/BlockGrants) |'TBD' |
-| A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|'TBD' |
+| A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|✅|
 | Python3 SDK and tutorial| https://www.youtube.com/playlist?list=PLMt8rZaHF-0Yj0w6tHeD1vxBA7f7GU-0-| ✅| https://github.com/includeleec/mixin-python3-sdk | ✅
 | 'TBD'| 'TBD'| 'TBD'|  https://github.com/HiZhongxh/Donate | ❌ based ethereum?
 
