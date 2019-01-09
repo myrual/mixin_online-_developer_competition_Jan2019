@@ -76,3 +76,4 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | mixin sdk in go| `TBD`| `TBD`|  [MooooonStar/mixin-sdk-go](https://github.com/MooooonStar/mixin-sdk-go) |✅ |
 | mixin sdk with laravel| `TBD`| `TBD`|  [ExinOne/laravel-mixin-sdk](https://github.com/ExinOne/laravel-mixin-sdk) |✅ |
 | Exinpay | Mixin ID: 7000101404| `TBD`|  `Null` |`TBD`|
+| Mixin 广场 | http://ahasmarter.com/game.html 或搜索 MixinID: 7000100111 | ✅ | [albertschr/mixin_square](https://github.com/albertschr/mixin_square) | ✅ |
