@@ -23,7 +23,6 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | A simple and powerful Chrome Extension wallet for accessing digital assets on Mixin Network| https://mixinlight.github.io/| ✅ | [MixinLight/mixin-light-wallet](https://github.com/MixinLight/mixin-light-wallet) |✅|
 | 问答社区| https://wenda.vcdiandian.com| ✅ | [xiudongy/flarum](https://github.com/xiudongy/flarum) |✅|
 | A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|✅|
-| Mixin 广场                                                   | http://ahasmarter.com/game.html 或搜索 MixinID: 7000100111 | ✅          | [albertschr/mixin_square](https://github.com/albertschr/mixin_square) | ✅                                                            |
 
 
 
@@ -72,6 +71,7 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | `TBD`| [Site under construction](https://shubhamkarala.github.io/melexa-web/)| ❌ | [iamkumarji/MixinApp-Hackinators-](https://github.com/iamkumarji/MixinApp-Hackinators-) |?Where is alexa code|
 | `TBD`| `TBD`| `TBD` | [mkohli21/BlockGrants](https://github.com/mkohli21/BlockGrants) |✅|
 | A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|✅|
+| Mixin 广场 | http://ahasmarter.com/game.html 或搜索 MixinID: 7000100111 | ✅ |[albertschr/mixin_square](https://github.com/albertschr/mixin_square)|✅|
 | Python3 SDK and tutorial| https://www.youtube.com/playlist?list=PLMt8rZaHF-0Yj0w6tHeD1vxBA7f7GU-0-| ✅| https://github.com/includeleec/mixin-python3-sdk | ✅
 | `TBD`| `TBD`| `TBD`|  https://github.com/HiZhongxh/Donate | ❌ based ethereum?
 | mixin sdk in go| `TBD`| `TBD`|  [MooooonStar/mixin-sdk-go](https://github.com/MooooonStar/mixin-sdk-go) |✅ |
