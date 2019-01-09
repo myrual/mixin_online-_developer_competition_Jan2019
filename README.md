@@ -23,6 +23,7 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | A simple and powerful Chrome Extension wallet for accessing digital assets on Mixin Network| https://mixinlight.github.io/| ✅ | [MixinLight/mixin-light-wallet](https://github.com/MixinLight/mixin-light-wallet) |✅|
 | 问答社区| https://wenda.vcdiandian.com| ✅ | [xiudongy/flarum](https://github.com/xiudongy/flarum) |✅|
 | A dice game | https://diceos.com | ✅ |[diceos/diceos-p](https://github.com/diceos/diceos-p)|✅|
+| Mixin-Decentralization-BBS| `TBD`| `TBD` | [kurisu-public/Mixin-Decentralization-BBS](https://github.com/kurisu-public/Mixin-Decentralization-BBS)|✅|
 
 
 
