@@ -40,7 +40,7 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 
 
 | Description | Delivery  | IsVerified | GithubAddress | CodeIsVerified |
-|--|--|--|--|--|
+|--|--|--|--|--
 | '`TBD`'| NO | `TBD` |[sumanthwhy/smart-Energy-Monitoring](https://github.com/sumanthwhy/smart-Energy-Monitoring)| `TBD` |
 | '`TBD`'| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend)|✅  repo missing https://github.com/liusining/wohaokan.me-mixin-middleware|
 | '`TBD`'| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|✅|
