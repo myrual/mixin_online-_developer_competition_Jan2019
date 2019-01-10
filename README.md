@@ -13,6 +13,11 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | 3 | https://www.dodice.com|
 | 3 | Fox.ONE 红包小程序版|
 
+### Excellent Prize 
+
+* http://everpost.one
+* http://mixinkeys.ibisolutions.ru
+* https://wenda.vcdiandian.com
 
 ### Accepted works are listed here
 | Description | Delivery  | IsVerified | GithubAddress | CodeIsVerified |
