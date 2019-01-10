@@ -29,8 +29,8 @@ Jeffery's rating
 | --| --|
 | 1 | https://testcardmall.applinzi.com/|
 | 2 | https://mixinlight.github.io|
-| 3 | https://imin.xin/ www.dodice.com	soooooooon/rock|
-| 4 | http://everpost.one http://mixinkeys.ibisolutions.ru|
+| 3 | https://imin.xin/|
+| 4 | http://everpost.one|
 | 5 |  Mixin Network快速充值助手  f1bank |
 | 6 | 问答社区	https://wenda.vcdiandian.com|
 | 7 | http://mixinkeys.ibisolutions.ru|
