@@ -17,13 +17,14 @@ Cederic's rating
 | Ranking | Project| 
 | --| --|
 | 1 | https://mixinlight.github.io|
-| 8 | https://imin.xin/|
-| 2 | www.dodice.com|
-| 3 | http://mixinkeys.ibisolutions.ru|
-| 7 | https://love-seal.lyric.im|
-| 6 |  Fox.ONE 红包小程序版|
-| 5 | 基于mixin network实现一个社群助手, 发糖果	Mixin ID:7000100213|
-| 4 | https://diceos.com|
+| 2 | https://diceos.com|
+| 3 | https://imin.xin/|
+| 4 | http://everpost.one|
+| 5 | www.dodice.com|
+| 6 | https://testcardmall.applinzi.com/|
+| 7 |  Fox.ONE 红包小程序版|
+| 8 | 问答社区	https://wenda.vcdiandian.com|
+
 
 
 Jeffery's rating
@@ -58,9 +59,8 @@ all rating
 | Ranking | Project| 
 | --| --|
 | 1 | https://mixinlight.github.io|
+| 2 | https://imin.xin/
 | 2 | http://mixinkeys.ibisolutions.ru|
-| 3 | https://imin.xin/
-
-| 3 | https://testcardmall.applinzi.com/|
 | 3 | www.dodice.com|
+| 3 | https://testcardmall.applinzi.com/|
 | 3 | http://everpost.one|
