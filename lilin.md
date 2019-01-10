@@ -17,7 +17,7 @@ Lilin's rating
 | 9| 搬砖小蚂蚁	Mixin ID: 7000101695|
 | 10| 妹子图	Mixin ID: 7000100214|
 | 11| 问答社区	https://wenda.vcdiandian.com|
-| 12| 礼品卡交易平台	testcardmall.applinzi|
+| 12| https://testcardmall.applinzi.com/|
 | 13 | https://www.mixin.bet|
 | 14| 随机聊天	Mixin ID:7000101419|
 | 15| https://wohaokan.me|
@@ -27,7 +27,7 @@ Jeffery's rating
 
 | Ranking | Project| 
 | --| --|
-| 1 | testcardmall.applinzi|
+| 1 | https://testcardmall.applinzi.com/|
 | 2 | https://mixinlight.github.io|
 | 3 | https://imin.xin/ www.dodice.com	soooooooon/rock|
 | 4 | http://everpost.one http://mixinkeys.ibisolutions.ru|
