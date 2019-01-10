@@ -46,7 +46,7 @@ cross's rating
 | Ranking | Project| 
 | --| --|
 |1|    https://mixinlight.github.io|
-
+| 2 | https://diceos.com|
 |3 |   https://imin.xin/|
 |4 |   www.dodice.com|
 |5 |   Fox.ONE 红包小程序版|
