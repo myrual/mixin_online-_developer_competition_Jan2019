@@ -40,6 +40,16 @@ Jeffery's rating
 | 8 | 搬砖小蚂蚁	Mixin ID: 7000101695|
 
 
+cross's rating
+| Ranking | Project| 
+| --| --|
+|1|    https://mixinlight.github.io|
+|2|     https://diceos.com|
+|3 |   https://imin.xin/|
+|4 |   www.dodice.com|
+|5 |   Fox.ONE 红包小程序版|
+|6 |   https://love-seal.lyric.im|
+|7 |   基于mixin network实现一个社群助手, 发糖果    Mixin ID:7000100213|
 all rating
 
 | Ranking | Project| 
