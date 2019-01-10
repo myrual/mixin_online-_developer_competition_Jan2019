@@ -12,6 +12,24 @@ Lilin's rating
 | 7 | 基于mixin network实现一个社群助手, 发糖果	Mixin ID:7000100213|
 | 8 | https://diceos.com|
 
+Cederic's rating
+
+| Ranking | Project| 
+| --| --|
+| 1 | https://mixinlight.github.io|
+| 2 | www.dodice.com|
+| 3 | http://mixinkeys.ibisolutions.ru|
+| 4 | https://diceos.com|
+| 5 | 基于mixin network实现一个社群助手, 发糖果	Mixin ID:7000100213|
+| 6 |  Fox.ONE 红包小程序版|
+| 7 | https://love-seal.lyric.im|
+| 8 | https://imin.xin/|
+
+
+
+
+
+
 
 Jeffery's rating
 
