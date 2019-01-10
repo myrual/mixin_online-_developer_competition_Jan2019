@@ -27,7 +27,7 @@ Jeffery's rating
 | 8 | 搬砖小蚂蚁	Mixin ID: 7000101695|
 
 
-all rating
+all rating based on lilin and Jeffery
 
 | Ranking | Project| 
 | --| --|
