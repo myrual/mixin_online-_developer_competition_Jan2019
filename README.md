@@ -2,6 +2,18 @@
 
 All the accepted code has been forked into [Awesome Mixin Network](https://github.com/awesome-mixin-network)
 
+### Final ranking
+
+| Ranking | Project| 
+| --| --|
+| 1 | https://mixinlight.github.io|
+| 2 | https://imin.xin/
+| 2 | https://testcardmall.applinzi.com/|
+| 3 | https://diceos.com|
+| 3 | https://www.dodice.com|
+| 3 | Fox.ONE 红包小程序版|
+
+
 ### Accepted works are listed here
 | Description | Delivery  | IsVerified | GithubAddress | CodeIsVerified |
 |--|--|--|--|--|
