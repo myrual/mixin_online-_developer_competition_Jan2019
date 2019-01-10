@@ -25,3 +25,12 @@ Jeffery's rating
 | 6 | 问答社区	https://wenda.vcdiandian.com|
 | 7 | http://mixinkeys.ibisolutions.ru|
 | 8 | 搬砖小蚂蚁	Mixin ID: 7000101695|
+
+
+all rating
+| 1 | https://mixinlight.github.io|
+| 2 | https://imin.xin/
+| 2 | http://mixinkeys.ibisolutions.ru|
+| 3 | https://testcardmall.applinzi.com/|
+| 3 | www.dodice.com|
+| 3 | http://everpost.one|
