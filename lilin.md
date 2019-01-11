@@ -64,3 +64,16 @@ all rating
 | 3 | https://diceos.com|
 | 3 | https://www.dodice.com|
 | 3 | Fox.ONE 红包小程序版|
+
+--------------
+### Virushuo rating
+huoju's rating is listed here, but is not accepted due to pass deadline
+
+| Ranking | Project| 
+| --| --|
+| 1 | http://everpost.one|
+| 2 | http://mixinkeys.ibisolutions.ru|
+| 3 | 搬砖小蚂蚁	Mixin ID: 7000101695|
+| 4 | https://testcardmall.applinzi.com/|
+| 5 | Fox.ONE 红包小程序版|
+
