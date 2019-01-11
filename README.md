@@ -95,3 +95,4 @@ All the accepted code has been forked into [Awesome Mixin Network](https://githu
 | Exinpay | Mixin ID: 7000101404| `TBD`|  `Null` |`TBD`|
 | Mixin 广场 | http://ahasmarter.com/game.html 或搜索 MixinID: 7000100111 | ✅ | [albertschr/mixin_square](https://github.com/albertschr/mixin_square) | ✅ |
 | Mixin-Decentralization-BBS| `TBD`| `TBD` | [kurisu-public/Mixin-Decentralization-BBS](https://github.com/kurisu-public/Mixin-Decentralization-BBS)|✅|
+| Mixin Robot Store| Mixin ID:7000101718| ✅ | [includeleec/mixin-robot-store](https://github.com/includeleec/mixin-robot-store)|✅|
